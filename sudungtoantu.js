@@ -1,8 +1,8 @@
 var width;
 var height;
 
-var width = parseInt(prompt("Enter the width"));
-var height = parseInt(prompt("Enter the Height"));
+width = parseInt(prompt("Enter the width"));
+height = parseInt(prompt("Enter the Height"));
 
 var area = width * height
 
